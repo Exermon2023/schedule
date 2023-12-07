@@ -22,7 +22,7 @@ export const statusPlayMap = new Map<TaskStatus, string>([
 ]);
 
 
-export const stageProgressUpdateFields = ["StageProgress", "Context"];
+// export const stageProgressUpdateFields = ["StageProgress", "Context"];
 export const statusUpdateFields = ["Log", "Status", "RetryIndex", "Context", "ModifyTime", "OrderTime"];
 export const stageChangeFields = [...statusUpdateFields, "Stage", "StageProgress"];
 export const resetFields = ["Status", "RetryIndex", "Log", "ModifyTime", "OrderTime"];
