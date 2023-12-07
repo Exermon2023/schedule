@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ed3c27-1499-4418-98ad-910ea7b6e9d9" name="Changes" comment="" />
+    <list default="true" id="c5ed3c27-1499-4418-98ad-910ea7b6e9d9" name="Changes" comment="add">
+      <change afterPath="$PROJECT_DIR$/out/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/L3_o5FeM0JhBRahbrmT7Y/_buildManifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/L3_o5FeM0JhBRahbrmT7Y/_ssgManifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/472-947ab2d71197fc5d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/725-a8d9adbcce88c1d1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/app/_not-found-326d915ae1291e11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/app/layout-d2dd9143b95bdeb7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/app/page-a4ac71751bbb6720.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/fd9d1056-cac1910cce11f2b7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/framework-8883d1e9be70c3da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/main-58f672b59320d807.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/main-app-f0af52b91296ec91.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/pages/_app-ee276fea40a4b191.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/pages/_error-deeb844d2074b9d8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/webpack-839bf45f9106d598.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/css/3585f437b5dd71d5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/css/53357681380e42a8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/media/05a31a2ca4975f99-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/media/513657b02c5c193f-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/media/51ed15f9841b9f9d-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/media/d6b16ce4a6175f26-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/media/ec159349637c90ad-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/media/fd4db3eb5472fc27-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/vercel.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +51,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -26,22 +66,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/xixi/node/schedule",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Users/xixi/node/schedule/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/xixi/node/schedule&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/xixi/node/schedule/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/components/TaskTable" />
@@ -83,11 +123,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701750141022</updated>
-      <workItem from="1701750142601" duration="40072000" />
+      <workItem from="1701750142601" duration="40404000" />
+      <workItem from="1701919291396" duration="823000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>
