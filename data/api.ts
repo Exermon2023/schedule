@@ -109,4 +109,4 @@ class TaskRpcClient implements TaskRpcInterface {
     }
 }
 
-export const Client = new TaskRpcClient("http://8.138.58.80:8081");
+export const Client = new TaskRpcClient("https://async-scheduler.bv5a7f4ddoqnm.ap-southeast-1.cs.amazonlightsail.com");
